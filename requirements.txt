@@ -1,0 +1,8 @@
+huggingface_hub
+python-dotenv
+streamlit
+pandas
+numpy
+plotly
+folium
+scikit-learn

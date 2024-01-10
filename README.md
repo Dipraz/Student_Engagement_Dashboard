@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Student Engagement Dashboard
 
 Welcome to your comprehensive guide to understanding and driving student engagement!
@@ -29,3 +30,6 @@ Personalized Recommendations: Tailor suggestions based on individual user needs 
 Advanced Analytics: Integrate machine learning models for deeper insights and predictions.
 Collaborative Dashboards: Enable sharing and discussion among stakeholders.
 Mobile Responsiveness: Ensure accessibility across devices.
+=======
+# Student_Engagement_Dashboard
+>>>>>>> 2bf35bee8942e11b480d3e60e9b5c0cbe8f4fb7d
