@@ -19,7 +19,7 @@ st.set_page_config(
 )
 @st.cache_data
 def load_data():
-    return pd.read_csv('F:/Student_Engagement_Dashboard/mock_student_engagement_data.csv')
+    return pd.read_csv('mock_student_engagement_data.csv')
 
 df = load_data()
 
